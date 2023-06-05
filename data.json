@@ -1,0 +1,54 @@
+{
+    "characters": {
+      "Harry Potter": {
+        "name": "Harry Potter",
+        "house": "Gryffindor",
+        "role": "Student"
+      },
+      "Hermione Granger": {
+        "name": "Hermione Granger",
+        "house": "Gryffindor",
+        "role": "Student"
+      },
+      "Ron Weasley": {
+        "name": "Ron Weasley",
+        "house": "Gryffindor",
+        "role": "Student"
+      },
+      "Severus Snape": {
+        "name": "Severus Snape",
+        "house": "Slytherin",
+        "role": "Professor"
+      }
+    },
+    "spells": {
+      "Expelliarmus": {
+        "name": "Expelliarmus",
+        "type": "Charm",
+        "effect": "Disarms the target, causing their wand to fly out of their hand"
+      },
+      "Expecto Patronum": {
+        "name": "Expecto Patronum",
+        "type": "Charm",
+        "effect": "Conjures a protective spirit animal that wards off Dementors"
+      },
+      "Wingardium Leviosa": {
+        "name": "Wingardium Leviosa",
+        "type": "Charm",
+        "effect": "Levitates objects"
+      }
+    },
+    "houses": {
+      "Gryffindor": {
+        "name": "Gryffindor",
+        "founder": "Godric Gryffindor",
+        "traits": "Bravery, courage, chivalry"
+      },
+      "Slytherin": {
+        "name": "Slytherin",
+        "founder": "Salazar Slytherin",
+        "traits": "Ambition, cunning, resourcefulness"
+      }
+    }
+  }
+  
